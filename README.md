@@ -1,6 +1,6 @@
 # TP 01 MILTON FIGUEIREDO
 
-## 1.1 Installation Machine Virtuel
+## 1.1 Installation Machine Virtuelle
 
 L'installation de la VM Debian a été assez compliqué sur mon pc portable tout d'abord dû au fait que mon processeur n'était pas assez puissant ce qui à fait que j'ai dû récuperer un autre mini-iso puis les étapes de l'installation en mode expert étaient très lente à charger et ayant recommencé plusieurs fois j'ai finalement décidé d'utiliser la machine préinstallé sur le pc de l'université.
 
